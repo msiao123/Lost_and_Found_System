@@ -16,3 +16,7 @@ A web-based lost and found management system developed for Ateneo de Naga Univer
 - HTML
 - CSS
 - JavaScript
+
+## Statement of Originality and Confidentiality
+
+This project is an original academic work developed collaboratively by the project team. Any confidential, sensitive, or institution-specific information has been removed, anonymized, or modified before public presentation. The materials included in this portfolio are shared strictly for educational and professional demonstration purposes.
